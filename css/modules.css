@@ -50,7 +50,44 @@ modules.css should contain smaller components on the page
 /* Media for larger devices - Desktop*/
 
 @media (min-width: 768px){
-  
+    #header {
+        background-color: #766C8C;
+        color: #EFF6E0;
+    }
+    
+    #b {
+        background-color: #D1D0D9;
+    }
+    
+    #c {
+        background-color: #D9AE79;
+    }
+    
+    #d {
+        background-color: #D9B596;
+    }
+    
+    #e {
+        background-color: #BF8D7A;
+    }
+    
+    #f {
+        background-color: #735840;
+        color: #EFF6E0;
+    }
+    
+    #g {
+        background-color: #D9AB82;
+    }
+    
+    #h {
+        background-color: #F2C7AE;
+    }
+    
+    #footer {
+        background-color: #402116;
+        color: #EFF6E0;
+    }
 
 }
   
